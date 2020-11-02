@@ -66,7 +66,7 @@ class History extends Model
             $this->attributes['final_balance'] = $value;
             return $value;
         }
-        $lastMovement = self::query()->orderBy('id', 'desc')->first();
+        $lastMovement = self::query()->where('product_id', $this->attributes['product_id'])->orderBy('id', 'desc')->first();
         if ($lastMovement){
             $final_balance = ($lastMovement->final_balance + $this->attributes['movement']);
         }

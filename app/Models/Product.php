@@ -47,7 +47,7 @@ class Product extends Model
     ];
 
     const RULES_DELETE = [
-        '*.id' => 'required|exists:products,id'
+        // '*.id' => 'required|exists:products,id'
     ];
 
     public function getQtdToShowAttribute()

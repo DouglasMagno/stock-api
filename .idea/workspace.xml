@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8c06310-063d-4926-912d-a990456be688" name="Default Changelist" comment="" />
+    <list default="true" id="b8c06310-063d-4926-912d-a990456be688" name="Default Changelist" comment="initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/History.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/History.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Product.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Product.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Repository/HistoryRepository.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Repository/HistoryRepository.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +31,9 @@
         <option value="composer.json" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
@@ -225,11 +242,42 @@
       <workItem from="1604152505424" duration="19305000" />
       <workItem from="1604236105540" duration="581000" />
       <workItem from="1604236864504" duration="767000" />
+      <workItem from="1604237649228" duration="1318000" />
+      <workItem from="1604252672076" duration="13000" />
+      <workItem from="1604274319461" duration="141000" />
+      <workItem from="1604274610973" duration="649000" />
+      <workItem from="1604277387220" duration="36000" />
+      <workItem from="1604323459839" duration="272000" />
+      <workItem from="1604335939527" duration="108000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1604237750918</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604237750918</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="540" y="175" key="#CLI_Interpreters" timestamp="1604160210989">
@@ -308,10 +356,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604160213849" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1604172514323">
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1604237763011">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604172514323" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604237763011" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1604274362733">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604274362733" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

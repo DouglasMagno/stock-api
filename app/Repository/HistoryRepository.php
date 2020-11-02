@@ -25,7 +25,7 @@ class HistoryRepository
      */
     public function getAll()
     {
-        return $this->model::all();
+        return $this->model::query()->orderBy('product_id', 'desc')->orderBy('id', 'asc')->get();
     }
 
     /**
